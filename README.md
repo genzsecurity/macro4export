@@ -24,8 +24,20 @@ Run the tool with python command like that:
 ```
 python macro4export.py
 ```
+![ScreenShot 1](https://github.com/genzsecurity/macro4export/blob/main/ScreenShot%201.png)
 
-**Don’t forget that you have to be in the tool folder location.**
+**Don’t forget that you have to be in the tool folder path.**
 
 Then enter files full path and hit enter. 
 
+![ScreenShot 2](https://github.com/genzsecurity/macro4export/blob/main/ScreenShot%202.png)
+
+The output gonna look like that:
+
+![Output](https://github.com/genzsecurity/macro4export/blob/main/ScreenShot%203.png)
+
+You can see the column name and a row number of the macro 4.
+
+The output also saved on desktop:
+
+![File_Created](https://github.com/genzsecurity/macro4export/blob/main/ScreenShot%204.png)
